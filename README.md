@@ -18,5 +18,6 @@
 
 ### Resutados
 
-![Alt text](./print1_setoolkit.png "Optional title")
-![Alt text](./print2_setoolkit.png "Optional title")
+![Alt text](./print2_setoolkit.png "Login")
+![Alt text](./print1_setoolkit.png "Kali")
+
