@@ -18,4 +18,5 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./print1_setoolkit.png "Optional title")
+![Alt text](./print2_setoolkit.png "Optional title")
