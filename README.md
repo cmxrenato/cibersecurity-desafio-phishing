@@ -1,6 +1,6 @@
 # Phishing para captura de senhas de Sites que tenham Login
 
-O phishing foi feito a partir do site de login da Universidade de CLeveland nos EUA. 
+O phishing foi feito a partir do site de login da Universidade de Cleveland nos EUA. 
 Infelizmente, por alguma medida adicional de segurança, o phishing do facebook não
 foi possível realizar. Todavia, foi realizado com sucesso ao escolher um outro site
 de login com possível segurança reduzida.
